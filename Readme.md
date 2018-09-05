@@ -1,6 +1,7 @@
-(Number of machines)\newline
-(Weights separated by space)\newline
-(Processing Times separated by space)\newline
+\\Instance Files format:
+(Number of machines)
+(Weights separated by space)
+(Processing Times separated by space)
 (Due Dates separated by space)
 
 
