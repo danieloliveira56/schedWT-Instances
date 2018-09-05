@@ -1,7 +1,11 @@
 \\Instance Files format:
+
 (Number of machines)
+
 (Weights separated by space)
+
 (Processing Times separated by space)
+
 (Due Dates separated by space)
 
 
